@@ -8,6 +8,12 @@ body {
 	margin-top: 0.75%;
 }
 
+ol{
+	list-style: upper-roman;
+}
+
+
+
 .nav{
 	border: solid #2c4e4e
 	border-width: 5px;
@@ -40,13 +46,13 @@ body {
 .nav a:link,
 a:visited{
 		background-color: cornsilk;
-		color: darkorange;
+		color: darkgoldenrod;
 }
 
 .nav a:hover,
 a: active {
-		  background-color: #4b6b6b;
-		  color: #2c4e4e;
+		  background-color: #darkgreen;
+		  color: #floralwhite;
 }
 
 
