@@ -43,6 +43,13 @@ a:visited{
 		color: darkorange;
 }
 
+.nav a:hover,
+a: active {
+		  background-color: #4b6b6b;
+		  color: #2c4e4e;
+}
+
+
 
 		
 
