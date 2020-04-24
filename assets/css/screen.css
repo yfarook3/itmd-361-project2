@@ -2,8 +2,43 @@
 
 #nav{
 	font-family: 'Comic Neue', cursive;
-	padding: 30px
+	padding: 10px;
 }
+
+#nav div{
+	display: inline-block;
+	background-color: ffe4c4;
+	text-align: center;
+	justify-content: center;
+	
+}
+#nav div a{
+		color: #deb887;
+		font-size: 15px;
+		padding: 13px 15px:
+}
+
+#nav div a:hover{
+	background-color: e9967a;
+	color: red;
+}
+#nav div a.active{
+	background-color: f08080;
+	color: #fffaf0;
+}
+
+body{
+	font-family: 'Comic Neue', cursive;font-size 23px;
+}
+
+html{
+	background-color:dodgerblue;
+}
+
+
+
+	
+		
 	
 
 
