@@ -12,7 +12,9 @@ ol{
 	list-style: upper-roman;
 }
 
-
+h1{
+	padding-top: 2em;
+}
 
 .nav{
 	border: solid #2c4e4e
@@ -54,6 +56,20 @@ a: active {
 		  background-color: #darkgreen;
 		  color: #floralwhite;
 }
+
+.index{
+		text-align: center;
+}
+
+.index h1{
+		
+		text-align: center;
+		color: #cd5c5c;
+		text-decoration-line: underline;
+		text-decoration-style: solid;
+		font-weight: 600;
+}
+		
 
 
 
