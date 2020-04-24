@@ -12,6 +12,10 @@ ol{
 	list-style: upper-roman;
 }
 
+ul{
+	list-style: circle;
+}
+
 h1{
 	padding-top: 2em;
 }
@@ -66,12 +70,38 @@ a: active {
 		text-align: center;
 		color: #cd5c5c;
 		text-decoration-line: underline;
-		text-decoration-style: solid;
+		text-decoration-style: single;
 		font-weight: 600;
 }
 		
+.index a{
+		text-align: center;
+}
+
+.index ul{
+		text-justify: auto;
+		color: ffffe0;
+}
+
+h2#sum{
+	  color: db7093;
+	  font-weight: 600;
+	  text-decoration-line: underline;
+}
+
+h2#ed{
+	
+	color: fa8072;
+	font-weight: 600;
+	text-decoration-line: underline;
+}
+
+h2#we{
+	
+	color: fffafa;
+	font-weight: 600;
+	text-decoration-line: underline;
+}
 
 
-
-		
 
